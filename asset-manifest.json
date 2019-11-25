@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/12-Days-of-Data/static/css/main.3d89b5ee.chunk.css",
+    "main.css": "/12-Days-of-Data/static/css/main.45299962.chunk.css",
     "main.js": "/12-Days-of-Data/static/js/main.a0ce78cb.chunk.js",
     "main.js.map": "/12-Days-of-Data/static/js/main.a0ce78cb.chunk.js.map",
     "runtime-main.js": "/12-Days-of-Data/static/js/runtime-main.629d0bec.js",
@@ -8,15 +8,15 @@
     "static/js/2.0acd36b5.chunk.js": "/12-Days-of-Data/static/js/2.0acd36b5.chunk.js",
     "static/js/2.0acd36b5.chunk.js.map": "/12-Days-of-Data/static/js/2.0acd36b5.chunk.js.map",
     "index.html": "/12-Days-of-Data/index.html",
-    "precache-manifest.500b7ce95d2e54e30ee4203d0cfe48c8.js": "/12-Days-of-Data/precache-manifest.500b7ce95d2e54e30ee4203d0cfe48c8.js",
+    "precache-manifest.9c76be94a6c548af47d44b18bc40d835.js": "/12-Days-of-Data/precache-manifest.9c76be94a6c548af47d44b18bc40d835.js",
     "service-worker.js": "/12-Days-of-Data/service-worker.js",
-    "static/css/main.3d89b5ee.chunk.css.map": "/12-Days-of-Data/static/css/main.3d89b5ee.chunk.css.map",
+    "static/css/main.45299962.chunk.css.map": "/12-Days-of-Data/static/css/main.45299962.chunk.css.map",
     "static/media/App.css": "/12-Days-of-Data/static/media/bg.f6e8da8e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.629d0bec.js",
     "static/js/2.0acd36b5.chunk.js",
-    "static/css/main.3d89b5ee.chunk.css",
+    "static/css/main.45299962.chunk.css",
     "static/js/main.a0ce78cb.chunk.js"
   ]
 }
