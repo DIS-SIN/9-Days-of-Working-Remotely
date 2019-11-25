@@ -19,7 +19,10 @@ export default function NoPeeking(props) {
     return (
         <div className="noPeeking" onClick={close}>
             <div className={classes}>
-                <h4>No Peeking!</h4>
+                <div>
+                    <h4>No Peeking!</h4>
+                    <i className="material-icons close" tabIndex="0" onClick={close}>close</i>
+                </div>
                 <p>{`Please come back on December ${props.error.day}th to view this content.`}</p>
             </div>
         </div>
