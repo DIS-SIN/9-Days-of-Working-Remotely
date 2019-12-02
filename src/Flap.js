@@ -1,7 +1,10 @@
 import React from 'react';
+import Data from './Data';
 import './App.css';
 
 function Flap(props) {
+
+    const dayContent = Data[`day_${props.day}`];
 
     function open(ev) {
         if (checkDate()){
@@ -11,13 +14,13 @@ function Flap(props) {
         else {
             props.setError({
                 exists: true,
-                day: 5 + props.day - 1
+                message: dayContent.error_message
             });
         }
     }
 
     function checkDate() {
-        return Date.now() >= new Date(`December ${5 + props.day - 1}, 2019`);
+        return Date.now() >= new Date(dayContent.unlockDate);
     }
 
     return (
