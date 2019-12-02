@@ -6,6 +6,7 @@ import './App.css';
 
 function App() {
 
+    const [dayToOpen, setDayToOpen] = useState(null);
     const [contentIsOpen, openContent] = useState(false);
     const [error, setError] = useState({
         exists: false
@@ -17,8 +18,8 @@ function App() {
         <React.Fragment>
             {error.exists ? <NoPeeking error={error} setError={setError}/> : null}
             <div className="calendar">
-                {days.map(day => <Flap key={day} day={day} openContent={openContent} setError={setError}/>)}
-                <Content contentIsOpen={contentIsOpen} openContent={openContent}/>
+                {days.map(day => <Flap key={day} day={day} openContent={openContent} setError={setError} setDayToOpen={setDayToOpen}/>)}
+                <Content contentIsOpen={contentIsOpen} openContent={openContent} day={dayToOpen}/>
             </div>
         </React.Fragment>
     );

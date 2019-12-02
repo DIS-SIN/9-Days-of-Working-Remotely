@@ -5,9 +5,9 @@
             "title": "No Peeking!",
             "text": "Come back on December 5th to view this content"
         },
-        "title": "",
-        "text": "",
-        "link": ""
+        "title": "Where does public sector data come from?",
+        "text": "Around the world, 2.5 quintillion bytes (2.5 x 1018 bytes) of data are created every day, with 90 per cent of the data in the world generated in the last two years alone (IBM, 2016). The Government of Canada generates and holds a vast amount and diverse array of data, including spatial data, operational data, transactional service data, and data collected from or about citizens and businesses.\n\nThrough the power of data, public servants can fundamentally transform governments by changing the way they operate, make decisions and deliver services. To learn more about how the Government is using data check out the GC Data Strategy found here:",
+        "link": "https://www.canada.ca/en/privy-council/corporate/clerk/publications/data-strategy.html "
     },
     "day_2": {
         "unlocks_at": "December 6, 2019",
@@ -15,9 +15,9 @@
             "title": "Nice try",
             "text": "A good way of saying “Come back on December 6th to view this content.”"
         },
-        "title": "",
-        "text": "",
-        "link": ""
+        "title": "Day 2 Title",
+        "text": "According to the Information and Communications Technology Council (ICTC) ‘With the increasing use and relevance of technology across all sectors of the economy, Digital+Data has evolved into a thriving, almost self-contained economy of its own. Just a few years ago, a major headline dubbed “data [as] the new oil”, effectively identifying it as a virtual, endlessly renewable natural resource.’ To read highlights of ICTC’s perspectives on a data economy strategy click here:",
+        "link": "https://www.ictc-ctic.ca/wp-content/uploads/2018/11/ICTC_Whitepaper_Perspective-Data-Econ-Strat.pdf"
     },
     "day_3": {
         "unlocks_at": "December 9, 2019",
@@ -25,9 +25,9 @@
             "title": "Now just wait a minute…",
             "text": "You thought you could take a peek? Get back to work and come back on December 9th to see this content!"
         },
-        "title": "",
-        "text": "",
-        "link": ""
+        "title": "Open Data",
+        "text": "Did you know?\n\nYou can search open data that is relevant to Canadians, learn how to work with datasets, and see what people have done with open data across the country",
+        "link": "https://open.canada.ca/en/open-data"
     },
     "day_4": {
         "unlocks_at": "December 10, 2019",

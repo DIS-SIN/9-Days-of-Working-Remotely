@@ -116,6 +116,12 @@
     box-shadow: 0 0 20px 3px #252525;
 }
 
+.contentContainer {
+    max-width: 90%;
+    margin-left: 5%;
+    white-space: pre-wrap;
+}
+
 .closeButton {
     position: absolute;
     right: 10px;

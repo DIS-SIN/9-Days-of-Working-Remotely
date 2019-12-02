@@ -9,6 +9,7 @@ function Flap(props) {
     function open(ev) {
         if (checkDate()){
             console.log("Opening Day ", ev.target.getAttribute("data-day"));
+            props.setDayToOpen(props.day);
             props.openContent(true);
         }
         else {
@@ -20,7 +21,7 @@ function Flap(props) {
     }
 
     function checkDate() {
-        return Date.now() >= new Date(dayContent.unlockDate);
+        return new Date("December 9, 2019") >= new Date(dayContent.unlocks_at);
     }
 
     return (
