@@ -1,6 +1,6 @@
 import React from 'react';
 import Data from './Data';
-import { ReactTinyLink } from 'react-tiny-link'
+import Link from './Link';
 import './App.css';
 
 export default function Content(props) {
@@ -14,13 +14,7 @@ export default function Content(props) {
                 <div className="contentContainer">
                     <h2>{dayContent.title}</h2>
                     <p>{dayContent.text}</p>
-                    <ReactTinyLink
-                        cardSize="small"
-                        showGraphic={true}
-                        maxLine={2}
-                        minLine={1}
-                        url={dayContent.link}
-                    />
+                    <Link data={dayContent.link}/>
                 </div>
             </div>
         );

@@ -110,6 +110,7 @@
     bottom: 0;
     left: 0;
     border-radius: 12px 12px 0 0;
+    overflow: scroll;
 }
 .content.open {
     height: 80%;
@@ -119,6 +120,7 @@
 .contentContainer {
     max-width: 90%;
     margin-left: 5%;
+    padding-bottom: 60px;
     white-space: pre-wrap;
 }
 
@@ -130,3 +132,77 @@
     background: none;
     border: none;
 }
+
+.link {
+    background-color: #eaeaea;
+    display: flex;
+    position: relative;
+    border: #bdbdbd solid 3px;
+    box-sizing: border-box;
+    border-radius: 3px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+
+.link img {
+    width: 15%;
+    min-width: 100px;
+    object-fit: cover;
+    border-radius: 3px;
+}
+
+.link div {
+    display: flex;
+    flex-direction: column;
+    width: 85%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.link div h3 {
+    font-size: 17px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    max-width: 75%;
+    overflow: hidden;
+    margin: 0;
+}
+
+.link div p {
+    font-size: 15px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    max-width: 95%;
+    overflow: hidden;
+}
+
+.link div span {
+    font-size: 14px;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .link {
+        flex-direction: column;
+    }
+
+    .link div {
+        width: 100%;
+        padding: 12px;
+    }
+
+    .link img {
+        height: 150px;
+        width: 100%;
+    }
+
+    .link div h3 {
+        max-width: 100%;
+    }
+
+    .link div p {
+        max-width: 100%;
+    }
+
+  }
