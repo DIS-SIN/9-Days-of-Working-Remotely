@@ -117,6 +117,18 @@
     box-shadow: 0 0 20px 3px #252525;
 }
 
+.contentBackgroundCover {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+.contentBackgroundCover.hide {
+    display: none;
+}
+
+
 .contentContainer {
     max-width: 90%;
     margin-left: 5%;
