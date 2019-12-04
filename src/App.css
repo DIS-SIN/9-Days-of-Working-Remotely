@@ -130,10 +130,11 @@
 
 
 .contentContainer {
-    max-width: 90%;
-    margin-left: 5%;
+    width: 90%;
+    max-width: 750px;
     padding-bottom: 60px;
     white-space: pre-wrap;
+    margin: 0 auto;
 }
 
 .closeButton {
@@ -155,6 +156,7 @@
     cursor: pointer;
     text-decoration: none;
     color: black;
+    max-height: 140px;
 }
 
 .link img {
@@ -197,6 +199,7 @@
 
     .link {
         flex-direction: column;
+        max-height: 275px;
     }
 
     .link div {
