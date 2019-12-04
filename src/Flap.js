@@ -25,7 +25,7 @@ function Flap(props) {
     }
 
     function checkDate() {
-        return new Date("December 20, 2019") >= new Date(dayContent.unlocks_at);
+        return new Date("December 5, 2019") >= new Date(dayContent.unlocks_at);
         // return Date.now() >= new Date(dayContent.unlocks_at);
     }
 
