@@ -7,7 +7,7 @@ import './App.css';
 export default function Content(props) {
 
     let url = window.location !== window.parent.location ? document.referrer : document.location.href;
-    let Data = url.substr(url.length - 4) === "-fr/" ? Data_FR : Data_EN;
+    let Data = url.includes("/fr/") ? Data_FR : Data_EN;
 
     const dayContent = Data[`day_${props.day}`];
 
