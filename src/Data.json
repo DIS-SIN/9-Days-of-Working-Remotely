@@ -38,7 +38,7 @@
             "text": "You thought you could take a peek? Get back to work and come back on December 9th to see this content!"
         },
         "title": "Open Data",
-        "text": "Did you know?\n\nYou can search open data that is relevant to Canadians, learn how to work with datasets, and see what people have done with open data across the country",
+        "text": "Did you know?\n\nYou can search open data that is relevant to Canadians, learn how to work with datasets, and see what people have done with open data across the country.",
         "link": {
             "url": "https://open.canada.ca/en/open-data",
             "image": "https://images.unsplash.com/photo-1453814279372-783dc5b638ae?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2689&q=80",
@@ -54,7 +54,7 @@
             "text": "“Patience is not the ability to wait, but the ability to keep a good attitude while waiting” - An author with more patience than you\n\nCome back on December 10th to view this content."
         },
         "title": "API Store",
-        "text": "“Application Programming Interfaces” APIs — short for — are the interpreters that allow two completely different digital services or programs to talk to each other. APIs also allow government services to talk to one another, to you as the end user, or to a third-party organization that might want to work with government data or functions.\n\nGood APIs create an ecosystem of services that build on each other and will be the building blocks for digital government. Check out the GC API store to learn more:",
+        "text": "“Application Programming Interfaces” APIs — short for — are the interpreters that allow two completely different digital services or programs to talk to each other. APIs also allow government services to talk to one another, to you as the end-user, or to a third-party organization that might want to work with government data or functions.\n\nGood APIs create an ecosystem of services that build on each other and will be the building blocks for digital government. Check out the GC API store to learn more.",
         "link": {
             "url": "https://api.canada.ca/en/homepage",
             "image": "https://api.canada.ca/sites/api-store-drupal-prod.apps.prod.openshift.ised-isde.canada.ca/files/2019-02/api-logo.png",
@@ -86,7 +86,7 @@
             "text": "Come back on December 12th and you might have more luck!"
         },
         "title": "Data Literacy",
-        "text": "At its core, a data driven organization is one that views data as a tool to predict success, build better programs and serve clients more effectively.  In a data driven organization, staff frequently encounter reports, dashboards, analyses and may have opportunities to analyse  data themselves. To do so effectively our employees need to know how to interpret and manage the data they are using each day. In order to do this, increasing Data Literacy is a must! How data literate are you?",
+        "text": "At its core, a data-driven organization is one that views data as a tool to predict success, build better programs and serve clients more effectively.  In a data-driven organization, staff frequently encounter reports, dashboards, analyses and may have opportunities to analyse data themselves. To do so effectively, our employees need to know how to interpret and manage the data they are using each day. In order to do this, increasing data literacy is a must! How data literate are you?",
         "link": {
             "url": "http://www.dataliteracy.info/",
             "image": "http://www.dataliteracy.info//assets/img.jpg",

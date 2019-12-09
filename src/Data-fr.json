@@ -37,14 +37,14 @@
             "title": "Attendez une petite minute…",
             "text": "Vous pensiez pouvoir jeter un coup d'oeil? Retournez au travail et revenez le 9 décembre pour voir ce contenu!"
         },
-        "title": "",
-        "text": "",
+        "title": "Données ouvertes",
+        "text": "Le saviez-vous?\n\nVous pouvez chercher des données ouvertes qui sont pertinentes aux Canadiens et  Canadiennes, apprendre comment travailler avec les jeux de données, voir ce que les citoyens ont fait avec les données ouvertes dans l’ensemble du pays.",
         "link": {
-            "url": "",
-            "image": "",
-            "title": "",
-            "description": "",
-            "domain": ""
+            "url": "https://ouvert.canada.ca/fr/donnees-ouvertes",
+            "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2252&q=80",
+            "title": "Données ouvertes | Gouvernement ouvert, Gouvernement du Canada",
+            "description": "Chercher des données ouvertes qui sont pertinentes aux Canadiens et Canadiennes, apprendre comment travailler avec les jeux de données, voir ce que les citoyens ont fait avec les données ouvertes dans l’ensemble du pays",
+            "domain": "ouvert.canada.ca"
         }
     },
     "day_4": {
