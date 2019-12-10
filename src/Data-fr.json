@@ -53,14 +53,14 @@
             "title": "La patience est une vertue.",
             "text": "«La patience, ce n’est pas la capacité d’attendre, mais la capacité de garder une bonne attitude en attendant» - Un auteur qui a plus de patience que vous\n\nRevenez le 10 décembre pour voir ce contenu."
         },
-        "title": "",
-        "text": "",
+        "title": "Magasin des API",
+        "text": "“Les API (interface de protocole applicative)” sont les interfaces qui permettent à deux services ou programmes numériques complètement différents de communiquer entre eux. Les API permettent également aux services gouvernementaux de communiquer entre eux, avec vous en tant qu'utilisateur final ou avec une organisation tierce qui pourrait vouloir travailler avec des données ou fonctions gouvernementales.\n\nLes bonnes API créent un écosystème de services qui s'appuient les uns sur les autres et constitueront les éléments fondateurs du gouvernement numérique. Visitez la boutique de l'API du GC pour en savoir plus.",
         "link": {
-            "url": "",
-            "image": "",
-            "title": "",
-            "description": "",
-            "domain": ""
+            "url": "https://api.canada.ca/fr/accueil",
+            "image": "https://api.canada.ca/sites/api-store-drupal-prod.apps.prod.openshift.ised-isde.canada.ca/files/2019-04/api-logo-fra_0.png",
+            "title": "Page d'accueil | Magasin des APIs",
+            "description": "Bienvenue dans le nouveau Magasin des APIs du Gouvernement du Canada, notre guichet unique pour les Interfaces de Programmation d'Applications (APIs).",
+            "domain": "api.canada.ca"
         }
     },
     "day_5": {
