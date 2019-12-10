@@ -86,7 +86,7 @@
             "text": "Come back on December 12th and you might have more luck!"
         },
         "title": "Data Literacy",
-        "text": "At its core, a data-driven organization is one that views data as a tool to predict success, build better programs and serve clients more effectively.  In a data-driven organization, staff frequently encounter reports, dashboards, analyses and may have opportunities to analyse data themselves. To do so effectively, our employees need to know how to interpret and manage the data they are using each day. In order to do this, increasing data literacy is a must! How data literate are you?",
+        "text": "At its core, a data-driven organization is one that views data as a tool to predict success, build better programs and serve clients more effectively. In a data-driven organization, staff frequently encounter reports, dashboards, analyses and may have opportunities to analyse data themselves. To do so effectively, our employees need to know how to interpret and manage the data they are using each day. In order to do this, increasing data literacy is a must! How data literate are you?",
         "link": {
             "url": "http://www.dataliteracy.info/",
             "image": "http://www.dataliteracy.info//assets/img.jpg",
@@ -101,24 +101,8 @@
             "title": "Admit it…",
             "text": "You thought you could look at the content before others? Looks like you were wrong! Come back on December 13th to see what we have waiting for you."
         },
-        "title": "Understanding Data in a Digital Age:",
-        "text": "Need a blurb here?",
-        "link": {
-            "url": "https://www.youtube.com/watch?v=OWaLBweMu-c",
-            "image": "http://i.ytimg.com/vi/OWaLBweMu-c/maxresdefault.jpg",
-            "title": "(Floor / plancher) Understanding Data in a Digital Age / Comprendre les données à l'ère du numérique",
-            "description": "This stream doesn't contain any simultaneous interpretation. / Cette diffusion ne contient aucune interprétation simultanée.",
-            "domain": "youtube.com"
-        }
-    },
-    "day_8": {
-        "unlocks_at": "December 16, 2019",
-        "error_message": {
-            "title": "Don’t give up!",
-            "text": "Never give up on something you really want. It’s difficult to wait but come back on December 16th to see the content."
-        },
         "title": "Data Visualization",
-        "text": "dictionary.com describes an inforgraphic as “a visual presentation of information in the form of a chart, graph, or other image accompanied by minimal text, intended to give an easily understood overview, often of a complex subject.”\n\n‘How is this different from data visualizations? The following resources can help you answer this question",
+        "text": "dictionary.com describes an infographic as “a visual presentation of information in the form of a chart, graph, or other image accompanied by minimal text, intended to give an easily understood overview, often of a complex subject.”\n\nHow is this different from data visualizations? The following resources can help you answer this question.",
         "link": {
             "url": "https://visme.co/blog/what-is-an-infographic/",
             "image": "http://visme.co/blog/wp-content/uploads/2017/04/What-is-an-Infographic-300x173.png",
@@ -127,30 +111,30 @@
             "domain": "visme.co"
         }
     },
-    "day_9": {
-        "unlocks_at": "December 17, 2019",
+    "day_8": {
+        "unlocks_at": "December 16, 2019",
         "error_message": {
-            "title": "Patience:",
-            "text": "What you don’t have!\n\nCome back on December 17th to see this content."
+            "title": "Don’t give up!",
+            "text": "Never give up on something you really want. It’s difficult to wait but come back on December 16th to see the content."
         },
         "title": "9 types of infographic templates",
-        "text": "On day 1 of data we learned that Around the world, 2.5 quintillion bytes (2.5 x 1018 bytes) of data are created every day, with 90 per cent of the data in the world generated in the last two years alone (IBM, 2016). The Government of Canada generates and holds a vast amount and diverse array of data, including spatial data, operational data, transactional service data, and data collected from or about citizens and businesses.\n\nCommunicating about this data requires skills in storytelling and visualization. It’s easier than ever to create these interesting visuals. Check out these templates and give it a try:",
+        "text": "On day 1 of data we learned that around the world, 2.5 quintillion bytes (2.5 x 1018 bytes) of data are created every day, with 90 percent of the data in the world generated in the last two years alone (IBM, 2016). The Government of Canada generates and holds a vast amount and diverse array of data, including spatial data, operational data, transactional service data, and data collected from or about citizens and businesses.\n\nCommunicating about this data requires skills in storytelling and visualization. It’s easier than ever to create these interesting visuals. Check out these templates and give it a try!",
         "link": {
-            "url": "https://venngage.com/blog/9-types-of-infographic-template/",
+            "url": "https://venngage.com/blog/9-types-of-infographic-template",
             "image": "http://venngage-wordpress.s3.amazonaws.com/uploads/2019/01/9-templates-blog.png",
             "title": "What Are the 9 Types of Infographics? (+Infographic Templates) - Venngage",
             "description": "This guide to infographics will explain what the 9 basic types of infographics are, and what the best infographic to use is depending on your information.",
             "domain": "venngage.com"
         }
     },
-    "day_10": {
-        "unlocks_at": "December 18, 2019",
+    "day_9": {
+        "unlocks_at": "December 17, 2019",
         "error_message": {
-            "title": "They say…",
-            "text": "The longer you wait, the better the content. Come back on December 18th to see if it’s true!"
+            "title": "Patience:",
+            "text": "What you don’t have!\n\nCome back on December 17th to see this content."
         },
         "title": "Microsoft Products",
-        "text": "Sometimes we just need to know where to go to complete some simple tasks with data to make our lives easier. Here are links to basic training and tutorials for  MicroSoft products -including Excel!",
+        "text": "Sometimes we just need to know where to go to complete some simple tasks with data to make our lives easier. Here’s a link to basic training and tutorials for Microsoft products, including Excel!",
         "link": {
             "url": "https://support.office.com/",
             "image": "https://support.content.office.net/en-us/media/d6ecb825-20b2-4907-9a46-33471a652d03.png",
@@ -159,14 +143,14 @@
             "domain": "support.office.com"
         }
     },
-    "day_11": {
-        "unlocks_at": "December 19, 2019",
+    "day_10": {
+        "unlocks_at": "December 18, 2019",
         "error_message": {
-            "title": "Looks like you’re having trouble waiting… here’s a data joke to hold you off!",
-            "text": "Question: What’s the difference between an introverted data analyst & an extroverted one?\n\nAnswer: the extrovert stares at YOUR shoes.\n\nCome back on December 19th to see this content."
+            "title": "They say…",
+            "text": "The longer you wait, the better the content. Come back on December 18th to see if it’s true!"
         },
-        "title": "**free** course on 'Data Science with Open Data",
-        "text": "The course was funded by the National Energy Board of Canada, now\n\nthe Canada Regulator, and hosted on IBM's learning platform, CognitiveClass.ai.\n\nLearners who complete the course successfully will earn a certificate of completion from IBM for their professional development hours and LinkedIn profiles.\n\nThe course is 3 hours long and includes some computer programming however, it is designed for learners with no computer programming or technical experience (yes, really!!)\n\nTry it here:",
+        "title": "*Free* course on “Data Science with Open Data”",
+        "text": "The course was funded by the National Energy Board of Canada, now the Canada Regulator, and hosted on IBM's learning platform, CognitiveClass.ai.\n\nLearners who complete the course successfully will earn a certificate of completion from IBM for their professional development hours and LinkedIn profiles.\n\nThe course is 3 hours long and includes some computer programming, however, it is designed for learners with no computer programming or technical experience (yes, really!!)\n\nTry it!",
         "link": {
             "url": "https://cognitiveclass.ai/courses/data-science-with-open-data",
             "image": "https://cognitiveclass.ai/wp-content/uploads/2019/04/Open-Data-Icon_small-01-e1557513785727.png",
@@ -175,20 +159,36 @@
             "domain": "cognitiveclass.ai"
         }
     },
+    "day_11": {
+        "unlocks_at": "December 19, 2019",
+        "error_message": {
+            "title": "Looks like you’re having trouble waiting… here’s a data joke to hold you off!",
+            "text": "Question: What’s the difference between an introverted data analyst & an extroverted one?\n\nAnswer: the extrovert stares at YOUR shoes.\n\nCome back on December 19th to see this content."
+        },
+        "title": "Teachable Machine",
+        "text": "People are using AI in Government to explore all kinds of ideas—identifying better ways to serve clients, optimizing workload and optimizing workflows.\n\nGetting started with your own machine learning projects might seem intimidating, but Teachable Machine is a web-based tool that makes it fast, easy, and accessible to everyone.\n\nThe first version of Teachable Machine let anyone teach their computer to recognize images using a webcam. For a lot of people, it was their first time experiencing what it’s like to train their own machine learning model: teaching the computer how to recognize patterns in data (images, in this case) and assign new data to categories.\n\nSince then, we’ve heard from lots of people who want to take their Teachable Machine models  one step further and use them in their own projects. Teachable Machine 2.0 lets you train your own machine learning model with the click of a button, no coding required, and export it to websites, apps, physical machines and more. As we explore the use of AI in government programs and services, we are ensuring it is governed by clear values, ethics, and laws",
+        "link": {
+            "url": "https://teachablemachine.withgoogle.com/v1",
+            "image": "https://teachablemachine.withgoogle.com/v1/assets/teachable-machine-splash-desktop.svg",
+            "title": "Teachable Machine",
+            "description": "Teachable Machine: Explore machine learning, live in your browser.",
+            "domain": "teachablemachine.withgoogle.com"
+        }
+    },
     "day_12": {
         "unlocks_at": "December 20, 2019",
         "error_message": {
             "title": "It’s worth the wait!",
             "text": "Stay strong… it’s coming soon!"
         },
-        "title": "Day 12",
-        "text": "People are using AI in Government to explore all kinds of ideas—identifying better ways to serve clients, optimizing workload and optimizing workflows\n\nGetting started with your own machine learning projects might seem intimidating, but Teachable Machine is a web-based tool that makes it fast, easy, and accessible to everyone.\n\nThe first version of Teachable Machine let anyone teach their computer to recognize images using a webcam. For a lot of people, it was their first time experiencing what it’s like to train their own machine learning model: teaching the computer how to recognize patterns in data (images, in this case) and assign new data to categories.\n\nSince then, we’ve heard from lots of people who want to take their Teachable Machine models  one step further and use them in their own projects. Teachable Machine 2.0 lets you train your own machine learning model with the click of a button, no coding required, and export it to websites, apps, physical machines and more. As we explore the use of AI in government programs and services, we are ensuring it is governed by clear values, ethics, and laws",
+        "title": "Free coding app for beginners",
+        "text": "With Grasshopper, a free coding app for beginners, you can easily learn and understand coding without any previous experience. In as little as five minutes a day, you can complete lessons, quizzes and visual puzzles to build your coding skills. Move through progressively challenging levels as you develop your abilities, then graduate with fundamental programming skills for your next step as a coder.",
         "link": {
-            "url": "https://teachablemachine.withgoogle.com/v1/",
-            "image": "https://teachablemachine.withgoogle.com/v1/assets/teachable-machine-splash-desktop.svg",
-            "title": "Teachable Machine",
-            "description": "Teachable Machine: Explore machine learning, live in your browser.",
-            "domain": "teachablemachine.withgoogle.com"
+            "url": "https://grasshopper.codes/",
+            "image": "https://grasshopper.app/assets/static/images/common/grasshopper.png",
+            "title": "Learn to Code for Free – Grasshopper",
+            "description": "Grasshopper is the coding app for beginners. With fun, quick lessons on your phone, the app teaches adult learners to write real JavaScript.",
+            "domain": "grasshopper.codes"
         }
     }
 }
