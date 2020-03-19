@@ -12,7 +12,7 @@ function App() {
         exists: false
     })
 
-    const days = Array.from({length: 12}, (v, k) => k+1);
+    const days = Array.from({length: 9}, (v, k) => k+1);
 
     return (
         <React.Fragment>

@@ -31,8 +31,7 @@ function Flap(props) {
 
     return (
         <div className="flap" data-day={props.day} onClick={open} tabIndex="1">
-            <p>{props.day}</p>
-            <i className="material-icons lock">{checkDate() ? "lock_open" : "lock"}</i>
+            <p>{dayContent.theme}</p>
         </div>
     );
 }
