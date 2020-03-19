@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/9-Days-of-Working-Remotely/precache-manifest.651f2f408f2fe820f56115c290b2f06a.js"
+  "/9-Days-of-Working-Remotely/precache-manifest.4787ff034b71c0a961233656098ec077.js"
 );
 
 self.addEventListener('message', (event) => {

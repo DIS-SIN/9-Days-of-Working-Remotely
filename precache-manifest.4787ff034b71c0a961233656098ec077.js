@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1bb75d2e71fa48249dfc8c840bcf6526",
+    "revision": "13101a116b15379992d03b6eb1b7a92f",
     "url": "/9-Days-of-Working-Remotely/index.html"
   },
   {
