@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0da6cf76ba29d903c00599d87aac116b",
+    "revision": "1bb75d2e71fa48249dfc8c840bcf6526",
     "url": "/9-Days-of-Working-Remotely/index.html"
   },
   {
-    "revision": "5c7855837f9562a863c9",
-    "url": "/9-Days-of-Working-Remotely/static/css/main.b3c16ca1.chunk.css"
+    "revision": "216d9c7dbfb6e717715b",
+    "url": "/9-Days-of-Working-Remotely/static/css/main.2887c626.chunk.css"
   },
   {
     "revision": "a92aa556b0df7fc3c44e",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/9-Days-of-Working-Remotely/static/js/2.412f6317.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5c7855837f9562a863c9",
+    "revision": "216d9c7dbfb6e717715b",
     "url": "/9-Days-of-Working-Remotely/static/js/main.293e723a.chunk.js"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/9-Days-of-Working-Remotely/static/js/runtime-main.319c93a7.js"
   },
   {
-    "revision": "f6e8da8e7bfa6c0bf6ae09e63f3f47e0",
-    "url": "/9-Days-of-Working-Remotely/static/media/bg.f6e8da8e.jpg"
+    "revision": "43e34926b6a91eea997909f11dbd5104",
+    "url": "/9-Days-of-Working-Remotely/static/media/bg.43e34926.jpg"
   }
 ]);
