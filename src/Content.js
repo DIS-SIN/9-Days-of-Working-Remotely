@@ -1,4 +1,5 @@
 import React from 'react';
+import ReactMarkdown from 'react-markdown';
 import Data_EN from './Data';
 import Data_FR from './Data-fr';
 import Link from './Link';
@@ -19,7 +20,7 @@ export default function Content(props) {
                     <button className="closeButton material-icons close" onClick={() => props.openContent(false)} tabIndex="0">close</button>
                     <div className="contentContainer">
                         <h2>{dayContent.title}</h2>
-                        <p>{dayContent.text}</p>
+                        <ReactMarkdown source={dayContent.text}/>
                         {dayContent.links.map(link => <Link data={link}/>)}
                     </div>
                 </div>
