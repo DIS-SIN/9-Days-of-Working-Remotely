@@ -2,7 +2,7 @@
   "name": "12-days-of-data",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dis-sin.github.io/12-Days-of-Data/",
+  "homepage": "https://dis-sin.github.io/9-Days-of-Working-Remotely/",
   "dependencies": {
     "@material-ui/icons": "^4.5.1",
     "react": "^16.12.0",
