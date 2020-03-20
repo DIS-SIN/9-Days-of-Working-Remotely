@@ -1,38 +1,38 @@
 {
     "day_1": {
-        "theme": "Theme",
+        "theme": "Mental Health",
         "link": "https://busrides-trajetsenbus.ca/ep-20-en/"
     },
     "day_2": {
-        "theme": "Another Theme",
+        "theme": "For Managers",
         "link": "https://busrides-trajetsenbus.ca/ep-20-en/"
     },
     "day_3": {
-        "theme": "Wow, a Theme!",
+        "theme": "For Employees",
         "link": "https://busrides-trajetsenbus.ca/ep-20-en/"
     },
     "day_4": {
-        "theme": "Glad this works",
+        "theme": "Culture",
         "link": "https://busrides-trajetsenbus.ca/ep-20-en/"
     },
     "day_5": {
-        "theme": "Hopefully supports some longer theme titles too",
+        "theme": "Virtual Meetings",
         "link": "https://busrides-trajetsenbus.ca/ep-20-en/"
     },
     "day_6": {
-        "theme": "Some more test theme titles",
+        "theme": "Professional Development",
         "link": "https://busrides-trajetsenbus.ca/ep-20-en/"
     },
     "day_7": {
-        "theme": "Lorem Ipsum?",
+        "theme": "Communication",
         "link": "https://busrides-trajetsenbus.ca/ep-20-en/"
     },
     "day_8": {
-        "theme": "Second last theme",
+        "theme": "Videoconferencing",
         "link": "https://busrides-trajetsenbus.ca/ep-20-en/"
     },
     "day_9": {
-        "theme": "Final theme",
+        "theme": "Project Management",
         "link": "https://busrides-trajetsenbus.ca/ep-20-en/"
     }
 }
