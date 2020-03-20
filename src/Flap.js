@@ -10,29 +10,10 @@ function Flap(props) {
 
     const dayContent = Data[`day_${props.day}`];
 
-    function open(ev) {
-        if (checkDate()){
-            console.log("Opening Day ", ev.target.getAttribute("data-day"));
-            props.setDayToOpen(props.day);
-            props.openContent(true);
-        }
-        else {
-            props.setError({
-                exists: true,
-                message: dayContent.error_message
-            });
-        }
-    }
-
-    function checkDate() {
-        // return new Date("December 5, 2019") >= new Date(dayContent.unlocks_at);
-        return Date.now() >= new Date(dayContent.unlocks_at);
-    }
-
     return (
-        <div className="flap" data-day={props.day} onClick={open} tabIndex="1">
+        <a className="flap" tabIndex="1" data-day={props.day} href={dayContent.link} target="_blank">
             <p>{dayContent.theme}</p>
-        </div>
+        </a>
     );
 }
 

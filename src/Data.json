@@ -1,236 +1,38 @@
 {
     "day_1": {
-        "unlocks_at": "December 5, 2019",
-        "error_message": {
-            "title": "No Peeking!",
-            "text": "Come back on December 5th to view this content"
-        },
         "theme": "Theme",
-        "title": "Where does public sector data come from?",
-        "text": "# Test content\n\nJust writing some test content to see if the library will work.\n\n\n\n - Item A\n\n - Item B\n\n - Item C\n\n\n\nHopefully the list works",
-        "links": [
-            {
-                "url": "https://www.canada.ca/en/privy-council/corporate/clerk/publications/data-strategy.html",
-                "image": "https://www.canada.ca/content/canadasite/en/privy-council/corporate/clerk/publications/data-strategy/_jcr_content/par/mwscolumns_1731871601/colpar-2/mwsadaptiveimage/image.img.png/1546960958397.png",
-                "title": "Report to the Clerk of the Privy Council: A Data Strategy Roadmap for the Federal Public Service - Canada.ca",
-                "description": "The Data Strategy provides departments and agencies a roadmap for a more strategic use of their data, and guides the federal government’s efforts to improve how it collects, accesses, manages, uses and governs data.",
-                "domain": "canada.ca"
-            },
-            {
-                "url": "https://www.ictc-ctic.ca/wp-content/uploads/2018/11/ICTC_Whitepaper_Perspective-Data-Econ-Strat.pdf",
-                "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2004&q=80",
-                "title": "ICTC’s Perspectives on a Data Economy Strategy",
-                "description": "This white paper highlights ICTC’s perspectives on a data economy strategy in an era where a data-driven economy is a global stimulus for fledging entrepreneurs, and emerging industries to create and commercialize new Intellectual Property (IP) to achieve national, economic, and social aspirations.",
-                "domain": "ictc-ctic.ca"
-            }
-        ]
+        "link": "https://busrides-trajetsenbus.ca/ep-20-en/"
     },
     "day_2": {
-        "unlocks_at": "December 6, 2019",
-        "error_message": {
-            "title": "Nice try",
-            "text": "A good way of saying “Come back on December 6th to view this content.”"
-        },
         "theme": "Another Theme",
-        "title": "Data [as] the new oil",
-        "text": "According to the Information and Communications Technology Council (ICTC) ‘With the increasing use and relevance of technology across all sectors of the economy, Digital+Data has evolved into a thriving, almost self-contained economy of its own. Just a few years ago, a major headline dubbed “data [as] the new oil”, effectively identifying it as a virtual, endlessly renewable natural resource.’ Take a look at the  highlights of ICTC’s perspectives on a data economy strategy.",
-        "links": [
-            {
-                "url": "https://www.canada.ca/en/privy-council/corporate/clerk/publications/data-strategy.html",
-                "image": "https://www.canada.ca/content/canadasite/en/privy-council/corporate/clerk/publications/data-strategy/_jcr_content/par/mwscolumns_1731871601/colpar-2/mwsadaptiveimage/image.img.png/1546960958397.png",
-                "title": "Report to the Clerk of the Privy Council: A Data Strategy Roadmap for the Federal Public Service - Canada.ca",
-                "description": "The Data Strategy provides departments and agencies a roadmap for a more strategic use of their data, and guides the federal government’s efforts to improve how it collects, accesses, manages, uses and governs data.",
-                "domain": "canada.ca"
-            },
-            {
-                "url": "https://www.ictc-ctic.ca/wp-content/uploads/2018/11/ICTC_Whitepaper_Perspective-Data-Econ-Strat.pdf",
-                "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2004&q=80",
-                "title": "ICTC’s Perspectives on a Data Economy Strategy",
-                "description": "This white paper highlights ICTC’s perspectives on a data economy strategy in an era where a data-driven economy is a global stimulus for fledging entrepreneurs, and emerging industries to create and commercialize new Intellectual Property (IP) to achieve national, economic, and social aspirations.",
-                "domain": "ictc-ctic.ca"
-            }
-        ]
+        "link": "https://busrides-trajetsenbus.ca/ep-20-en/"
     },
     "day_3": {
-        "unlocks_at": "December 9, 2019",
-        "error_message": {
-            "title": "Now just wait a minute…",
-            "text": "You thought you could take a peek? Get back to work and come back on December 9th to see this content!"
-        },
         "theme": "Wow, a Theme!",
-        "title": "Open Data",
-        "text": "Did you know?\n\nYou can search open data that is relevant to Canadians, learn how to work with datasets, and see what people have done with open data across the country.",
-        "links": [
-            {
-                "url": "https://www.canada.ca/en/privy-council/corporate/clerk/publications/data-strategy.html",
-                "image": "https://www.canada.ca/content/canadasite/en/privy-council/corporate/clerk/publications/data-strategy/_jcr_content/par/mwscolumns_1731871601/colpar-2/mwsadaptiveimage/image.img.png/1546960958397.png",
-                "title": "Report to the Clerk of the Privy Council: A Data Strategy Roadmap for the Federal Public Service - Canada.ca",
-                "description": "The Data Strategy provides departments and agencies a roadmap for a more strategic use of their data, and guides the federal government’s efforts to improve how it collects, accesses, manages, uses and governs data.",
-                "domain": "canada.ca"
-            },
-            {
-                "url": "https://www.ictc-ctic.ca/wp-content/uploads/2018/11/ICTC_Whitepaper_Perspective-Data-Econ-Strat.pdf",
-                "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2004&q=80",
-                "title": "ICTC’s Perspectives on a Data Economy Strategy",
-                "description": "This white paper highlights ICTC’s perspectives on a data economy strategy in an era where a data-driven economy is a global stimulus for fledging entrepreneurs, and emerging industries to create and commercialize new Intellectual Property (IP) to achieve national, economic, and social aspirations.",
-                "domain": "ictc-ctic.ca"
-            }
-        ]
+        "link": "https://busrides-trajetsenbus.ca/ep-20-en/"
     },
     "day_4": {
-        "unlocks_at": "December 10, 2019",
-        "error_message": {
-            "title": "Patience is a virtue",
-            "text": "“Patience is not the ability to wait, but the ability to keep a good attitude while waiting” - An author with more patience than you\n\nCome back on December 10th to view this content."
-        },
         "theme": "Glad this works",
-        "title": "API Store",
-        "text": "“Application Programming Interfaces” APIs — short for — are the interpreters that allow two completely different digital services or programs to talk to each other. APIs also allow government services to talk to one another, to you as the end-user, or to a third-party organization that might want to work with government data or functions.\n\nGood APIs create an ecosystem of services that build on each other and will be the building blocks for digital government. Check out the GC API store to learn more.",
-        "links": [
-            {
-                "url": "https://www.canada.ca/en/privy-council/corporate/clerk/publications/data-strategy.html",
-                "image": "https://www.canada.ca/content/canadasite/en/privy-council/corporate/clerk/publications/data-strategy/_jcr_content/par/mwscolumns_1731871601/colpar-2/mwsadaptiveimage/image.img.png/1546960958397.png",
-                "title": "Report to the Clerk of the Privy Council: A Data Strategy Roadmap for the Federal Public Service - Canada.ca",
-                "description": "The Data Strategy provides departments and agencies a roadmap for a more strategic use of their data, and guides the federal government’s efforts to improve how it collects, accesses, manages, uses and governs data.",
-                "domain": "canada.ca"
-            },
-            {
-                "url": "https://www.ictc-ctic.ca/wp-content/uploads/2018/11/ICTC_Whitepaper_Perspective-Data-Econ-Strat.pdf",
-                "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2004&q=80",
-                "title": "ICTC’s Perspectives on a Data Economy Strategy",
-                "description": "This white paper highlights ICTC’s perspectives on a data economy strategy in an era where a data-driven economy is a global stimulus for fledging entrepreneurs, and emerging industries to create and commercialize new Intellectual Property (IP) to achieve national, economic, and social aspirations.",
-                "domain": "ictc-ctic.ca"
-            }
-        ]
+        "link": "https://busrides-trajetsenbus.ca/ep-20-en/"
     },
     "day_5": {
-        "unlocks_at": "December 11, 2019",
-        "error_message": {
-            "title": "This is a test",
-            "text": "We tested your patience… Looks like you failed!\n\nCome back on December 11th to view this content."
-        },
         "theme": "Hopefully supports some longer theme titles too",
-        "title": "Data For Good",
-        "text": "We often talk about how data can be used to drive value for businesses and organizations. Did you know we can also use data for social good?",
-        "links": [
-            {
-                "url": "https://www.canada.ca/en/privy-council/corporate/clerk/publications/data-strategy.html",
-                "image": "https://www.canada.ca/content/canadasite/en/privy-council/corporate/clerk/publications/data-strategy/_jcr_content/par/mwscolumns_1731871601/colpar-2/mwsadaptiveimage/image.img.png/1546960958397.png",
-                "title": "Report to the Clerk of the Privy Council: A Data Strategy Roadmap for the Federal Public Service - Canada.ca",
-                "description": "The Data Strategy provides departments and agencies a roadmap for a more strategic use of their data, and guides the federal government’s efforts to improve how it collects, accesses, manages, uses and governs data.",
-                "domain": "canada.ca"
-            },
-            {
-                "url": "https://www.ictc-ctic.ca/wp-content/uploads/2018/11/ICTC_Whitepaper_Perspective-Data-Econ-Strat.pdf",
-                "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2004&q=80",
-                "title": "ICTC’s Perspectives on a Data Economy Strategy",
-                "description": "This white paper highlights ICTC’s perspectives on a data economy strategy in an era where a data-driven economy is a global stimulus for fledging entrepreneurs, and emerging industries to create and commercialize new Intellectual Property (IP) to achieve national, economic, and social aspirations.",
-                "domain": "ictc-ctic.ca"
-            }
-        ]
+        "link": "https://busrides-trajetsenbus.ca/ep-20-en/"
     },
     "day_6": {
-        "unlocks_at": "December 12, 2019",
-        "error_message": {
-            "title": "Absolutely no peeking!",
-            "text": "Come back on December 12th and you might have more luck!"
-        },
         "theme": "Some more test theme titles",
-        "title": "Data Literacy",
-        "text": "At its core, a data-driven organization is one that views data as a tool to predict success, build better programs and serve clients more effectively. In a data-driven organization, staff frequently encounter reports, dashboards, analyses and may have opportunities to analyse data themselves. To do so effectively, our employees need to know how to interpret and manage the data they are using each day. In order to do this, increasing data literacy is a must! How data literate are you?",
-        "links": [
-            {
-                "url": "https://www.canada.ca/en/privy-council/corporate/clerk/publications/data-strategy.html",
-                "image": "https://www.canada.ca/content/canadasite/en/privy-council/corporate/clerk/publications/data-strategy/_jcr_content/par/mwscolumns_1731871601/colpar-2/mwsadaptiveimage/image.img.png/1546960958397.png",
-                "title": "Report to the Clerk of the Privy Council: A Data Strategy Roadmap for the Federal Public Service - Canada.ca",
-                "description": "The Data Strategy provides departments and agencies a roadmap for a more strategic use of their data, and guides the federal government’s efforts to improve how it collects, accesses, manages, uses and governs data.",
-                "domain": "canada.ca"
-            },
-            {
-                "url": "https://www.ictc-ctic.ca/wp-content/uploads/2018/11/ICTC_Whitepaper_Perspective-Data-Econ-Strat.pdf",
-                "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2004&q=80",
-                "title": "ICTC’s Perspectives on a Data Economy Strategy",
-                "description": "This white paper highlights ICTC’s perspectives on a data economy strategy in an era where a data-driven economy is a global stimulus for fledging entrepreneurs, and emerging industries to create and commercialize new Intellectual Property (IP) to achieve national, economic, and social aspirations.",
-                "domain": "ictc-ctic.ca"
-            }
-        ]
+        "link": "https://busrides-trajetsenbus.ca/ep-20-en/"
     },
     "day_7": {
-        "unlocks_at": "December 13, 2019",
-        "error_message": {
-            "title": "Admit it…",
-            "text": "You thought you could look at the content before others? Looks like you were wrong! Come back on December 13th to see what we have waiting for you."
-        },
         "theme": "Lorem Ipsum?",
-        "title": "Data Visualization",
-        "text": "dictionary.com describes an infographic as “a visual presentation of information in the form of a chart, graph, or other image accompanied by minimal text, intended to give an easily understood overview, often of a complex subject.”\n\nHow is this different from data visualizations? The following resources can help you answer this question.",
-        "links": [
-            {
-                "url": "https://www.canada.ca/en/privy-council/corporate/clerk/publications/data-strategy.html",
-                "image": "https://www.canada.ca/content/canadasite/en/privy-council/corporate/clerk/publications/data-strategy/_jcr_content/par/mwscolumns_1731871601/colpar-2/mwsadaptiveimage/image.img.png/1546960958397.png",
-                "title": "Report to the Clerk of the Privy Council: A Data Strategy Roadmap for the Federal Public Service - Canada.ca",
-                "description": "The Data Strategy provides departments and agencies a roadmap for a more strategic use of their data, and guides the federal government’s efforts to improve how it collects, accesses, manages, uses and governs data.",
-                "domain": "canada.ca"
-            },
-            {
-                "url": "https://www.ictc-ctic.ca/wp-content/uploads/2018/11/ICTC_Whitepaper_Perspective-Data-Econ-Strat.pdf",
-                "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2004&q=80",
-                "title": "ICTC’s Perspectives on a Data Economy Strategy",
-                "description": "This white paper highlights ICTC’s perspectives on a data economy strategy in an era where a data-driven economy is a global stimulus for fledging entrepreneurs, and emerging industries to create and commercialize new Intellectual Property (IP) to achieve national, economic, and social aspirations.",
-                "domain": "ictc-ctic.ca"
-            }
-        ]
+        "link": "https://busrides-trajetsenbus.ca/ep-20-en/"
     },
     "day_8": {
-        "unlocks_at": "December 16, 2019",
-        "error_message": {
-            "title": "Don’t give up!",
-            "text": "Never give up on something you really want. It’s difficult to wait but come back on December 16th to see the content."
-        },
         "theme": "Second last theme",
-        "title": "9 types of infographic templates",
-        "text": "On day 1 of data we learned that around the world, 2.5 quintillion bytes (2.5 x 1018 bytes) of data are created every day, with 90 percent of the data in the world generated in the last two years alone (IBM, 2016). The Government of Canada generates and holds a vast amount and diverse array of data, including spatial data, operational data, transactional service data, and data collected from or about citizens and businesses.\n\nCommunicating about this data requires skills in storytelling and visualization. It’s easier than ever to create these interesting visuals. Check out these templates and give it a try!",
-        "links": [
-            {
-                "url": "https://www.canada.ca/en/privy-council/corporate/clerk/publications/data-strategy.html",
-                "image": "https://www.canada.ca/content/canadasite/en/privy-council/corporate/clerk/publications/data-strategy/_jcr_content/par/mwscolumns_1731871601/colpar-2/mwsadaptiveimage/image.img.png/1546960958397.png",
-                "title": "Report to the Clerk of the Privy Council: A Data Strategy Roadmap for the Federal Public Service - Canada.ca",
-                "description": "The Data Strategy provides departments and agencies a roadmap for a more strategic use of their data, and guides the federal government’s efforts to improve how it collects, accesses, manages, uses and governs data.",
-                "domain": "canada.ca"
-            },
-            {
-                "url": "https://www.ictc-ctic.ca/wp-content/uploads/2018/11/ICTC_Whitepaper_Perspective-Data-Econ-Strat.pdf",
-                "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2004&q=80",
-                "title": "ICTC’s Perspectives on a Data Economy Strategy",
-                "description": "This white paper highlights ICTC’s perspectives on a data economy strategy in an era where a data-driven economy is a global stimulus for fledging entrepreneurs, and emerging industries to create and commercialize new Intellectual Property (IP) to achieve national, economic, and social aspirations.",
-                "domain": "ictc-ctic.ca"
-            }
-        ]
+        "link": "https://busrides-trajetsenbus.ca/ep-20-en/"
     },
     "day_9": {
-        "unlocks_at": "December 17, 2019",
-        "error_message": {
-            "title": "Patience:",
-            "text": "What you don’t have!\n\nCome back on December 17th to see this content."
-        },
         "theme": "Final theme",
-        "title": "Microsoft Products",
-        "text": "Sometimes we just need to know where to go to complete some simple tasks with data to make our lives easier. Here’s a link to basic training and tutorials for Microsoft products, including Excel!",
-        "links": [
-            {
-                "url": "https://www.canada.ca/en/privy-council/corporate/clerk/publications/data-strategy.html",
-                "image": "https://www.canada.ca/content/canadasite/en/privy-council/corporate/clerk/publications/data-strategy/_jcr_content/par/mwscolumns_1731871601/colpar-2/mwsadaptiveimage/image.img.png/1546960958397.png",
-                "title": "Report to the Clerk of the Privy Council: A Data Strategy Roadmap for the Federal Public Service - Canada.ca",
-                "description": "The Data Strategy provides departments and agencies a roadmap for a more strategic use of their data, and guides the federal government’s efforts to improve how it collects, accesses, manages, uses and governs data.",
-                "domain": "canada.ca"
-            },
-            {
-                "url": "https://www.ictc-ctic.ca/wp-content/uploads/2018/11/ICTC_Whitepaper_Perspective-Data-Econ-Strat.pdf",
-                "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2004&q=80",
-                "title": "ICTC’s Perspectives on a Data Economy Strategy",
-                "description": "This white paper highlights ICTC’s perspectives on a data economy strategy in an era where a data-driven economy is a global stimulus for fledging entrepreneurs, and emerging industries to create and commercialize new Intellectual Property (IP) to achieve national, economic, and social aspirations.",
-                "domain": "ictc-ctic.ca"
-            }
-        ]
+        "link": "https://busrides-trajetsenbus.ca/ep-20-en/"
     }
 }
