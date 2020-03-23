@@ -9,10 +9,10 @@
     },
     "day_3": {
         "theme": "Pour les employés",
-        "link": "/"
+        "link": "https://busrides-trajetsenbus.ca/fr/ep-23-fr/"
     },
     "day_4": {
-        "theme": "La Culture du lieu de travail",
+        "theme": "Culture",
         "link": "https://busrides-trajetsenbus.ca/fr/ep-24-fr/"
     },
     "day_5": {
@@ -25,14 +25,14 @@
     },
     "day_7": {
         "theme": "Communication",
-        "link": "/"
+        "link": "https://busrides-trajetsenbus.ca/fr/ep-27-fr/"
     },
     "day_8": {
         "theme": "Vidéo conférence",
         "link": "https://busrides-trajetsenbus.ca/fr/ep-20-fr/"
     },
     "day_9": {
-        "theme": "Outils de gestion de projet",
-        "link": "/"
+        "theme": "Gestion de projet",
+        "link": "https://busrides-trajetsenbus.ca/fr/ep-29-fr/"
     }
 }
