@@ -1,11 +1,11 @@
 {
     "day_1": {
         "theme": "Santé mentale",
-        "link": "/"
+        "link": "https://busrides-trajetsenbus.ca/fr/ep-21-fr/"
     },
     "day_2": {
         "theme": "Pour les gestionnaires",
-        "link": "/"
+        "link": "https://busrides-trajetsenbus.ca/fr/ep-22-fr/"
     },
     "day_3": {
         "theme": "Pour les employés",
@@ -13,15 +13,15 @@
     },
     "day_4": {
         "theme": "La Culture du lieu de travail",
-        "link": "/"
+        "link": "https://busrides-trajetsenbus.ca/fr/ep-24-fr/"
     },
     "day_5": {
         "theme": "Réunions virtuelles",
-        "link": "/"
+        "link": "https://busrides-trajetsenbus.ca/fr/ep-24-fr-2/"
     },
     "day_6": {
         "theme": "Développement professionnel",
-        "link": "/"
+        "link": "https://busrides-trajetsenbus.ca/fr/ep-26-fr/"
     },
     "day_7": {
         "theme": "Communication",
@@ -29,10 +29,10 @@
     },
     "day_8": {
         "theme": "Vidéo conférence",
-        "link": "/"
+        "link": "https://busrides-trajetsenbus.ca/fr/ep-20-fr/"
     },
     "day_9": {
-        "theme": "Outils de gGestion de projet",
+        "theme": "Outils de gestion de projet",
         "link": "/"
     }
 }
