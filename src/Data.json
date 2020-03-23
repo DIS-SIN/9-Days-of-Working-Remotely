@@ -1,38 +1,38 @@
 {
     "day_1": {
         "theme": "Mental Health",
-        "link": "https://busrides-trajetsenbus.ca/en/ep-21-en/"
+        "link": "https://busrides-trajetsenbus.ca/en/ep-21-en/?utm_source=busrides&utm_medium=site_internal&utm_campaign=mental_health"
     },
     "day_2": {
         "theme": "For Managers",
-        "link": "https://busrides-trajetsenbus.ca/en/ep-22-en/"
+        "link": "https://busrides-trajetsenbus.ca/en/ep-22-en/?utm_source=busrides&utm_medium=site_internal&utm_campaign=for_managers"
     },
     "day_3": {
         "theme": "For Employees",
-        "link": "https://busrides-trajetsenbus.ca/en/ep-23-en/"
+        "link": "https://busrides-trajetsenbus.ca/en/ep-23-en/?utm_source=busrides&utm_medium=site_internal&utm_campaign=for_employees"
     },
     "day_4": {
         "theme": "Culture",
-        "link": "https://busrides-trajetsenbus.ca/en/ep-24-en/"
+        "link": "https://busrides-trajetsenbus.ca/en/ep-24-en/?utm_source=busrides&utm_medium=site_internal&utm_campaign=culture"
     },
     "day_5": {
         "theme": "Virtual Meetings",
-        "link": "https://busrides-trajetsenbus.ca/en/ep-24-en-3/"
+        "link": "https://busrides-trajetsenbus.ca/en/ep-24-en-3/?utm_source=busrides&utm_medium=site_internal&utm_campaign=virtual_meetings"
     },
     "day_6": {
         "theme": "Professional Development",
-        "link": "https://busrides-trajetsenbus.ca/en/ep-26-en/"
+        "link": "https://busrides-trajetsenbus.ca/en/ep-26-en/?utm_source=busrides&utm_medium=site_internal&utm_campaign=professional_development"
     },
     "day_7": {
         "theme": "Communication",
-        "link": "https://busrides-trajetsenbus.ca/en/ep-27-en/"
+        "link": "https://busrides-trajetsenbus.ca/en/ep-27-en/?utm_source=busrides&utm_medium=site_internal&utm_campaign=communication"
     },
     "day_8": {
         "theme": "Video Conferencing",
-        "link": "https://busrides-trajetsenbus.ca/en/ep-20-en/"
+        "link": "https://busrides-trajetsenbus.ca/en/ep-20-en/?utm_source=busrides&utm_medium=site_internal&utm_campaign=video_conferencing"
     },
     "day_9": {
         "theme": "Project Management",
-        "link": "https://busrides-trajetsenbus.ca/en/ep-27-en-2/"
+        "link": "https://busrides-trajetsenbus.ca/en/ep-27-en-2/?utm_source=busrides&utm_medium=site_internal&utm_campaign=project_management"
     }
 }
