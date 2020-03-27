@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "201ac949e0de1c0f9ab52cf7813e007f",
+    "revision": "c5cacd5c9b22f24a79f9a399eb5242f4",
     "url": "/9-Days-of-Working-Remotely/index.html"
   },
   {
-    "revision": "abcf84d0e98870cde620",
+    "revision": "9db280e030b4e9244b3a",
     "url": "/9-Days-of-Working-Remotely/static/css/main.34d258b1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/9-Days-of-Working-Remotely/static/js/2.823c4111.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "abcf84d0e98870cde620",
-    "url": "/9-Days-of-Working-Remotely/static/js/main.c40ea3bb.chunk.js"
+    "revision": "9db280e030b4e9244b3a",
+    "url": "/9-Days-of-Working-Remotely/static/js/main.4455351d.chunk.js"
   },
   {
     "revision": "e4707e6d49d4da80b1bf",

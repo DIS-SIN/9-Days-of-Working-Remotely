@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/9-Days-of-Working-Remotely/static/css/main.34d258b1.chunk.css",
-    "main.js": "/9-Days-of-Working-Remotely/static/js/main.c40ea3bb.chunk.js",
-    "main.js.map": "/9-Days-of-Working-Remotely/static/js/main.c40ea3bb.chunk.js.map",
+    "main.js": "/9-Days-of-Working-Remotely/static/js/main.4455351d.chunk.js",
+    "main.js.map": "/9-Days-of-Working-Remotely/static/js/main.4455351d.chunk.js.map",
     "runtime-main.js": "/9-Days-of-Working-Remotely/static/js/runtime-main.319c93a7.js",
     "runtime-main.js.map": "/9-Days-of-Working-Remotely/static/js/runtime-main.319c93a7.js.map",
     "static/js/2.823c4111.chunk.js": "/9-Days-of-Working-Remotely/static/js/2.823c4111.chunk.js",
     "static/js/2.823c4111.chunk.js.map": "/9-Days-of-Working-Remotely/static/js/2.823c4111.chunk.js.map",
     "index.html": "/9-Days-of-Working-Remotely/index.html",
-    "precache-manifest.f145db820e3bfa9e379d993b39851e02.js": "/9-Days-of-Working-Remotely/precache-manifest.f145db820e3bfa9e379d993b39851e02.js",
+    "precache-manifest.b5c487d5858f9093e894949d91cb9e31.js": "/9-Days-of-Working-Remotely/precache-manifest.b5c487d5858f9093e894949d91cb9e31.js",
     "service-worker.js": "/9-Days-of-Working-Remotely/service-worker.js",
     "static/css/main.34d258b1.chunk.css.map": "/9-Days-of-Working-Remotely/static/css/main.34d258b1.chunk.css.map",
     "static/js/2.823c4111.chunk.js.LICENSE.txt": "/9-Days-of-Working-Remotely/static/js/2.823c4111.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.319c93a7.js",
     "static/js/2.823c4111.chunk.js",
     "static/css/main.34d258b1.chunk.css",
-    "static/js/main.c40ea3bb.chunk.js"
+    "static/js/main.4455351d.chunk.js"
   ]
 }
